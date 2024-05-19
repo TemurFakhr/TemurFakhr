@@ -1,3 +1,3 @@
-function addNumbers(A, B, С) {
-    return a + b + X;
+function addNumbers(A, B, D) {
+    return a + b + D;
 }
