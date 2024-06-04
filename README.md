@@ -1,3 +1,3 @@
-function addNumbers(A, B, Kw2) {
-    return a + b + c1;
+function addNumbers(A, B, C) {
+    return a + b + c;
 }
