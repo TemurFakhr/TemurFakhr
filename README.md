@@ -1,4 +1,4 @@
-function addNumbers(A, B, C4) {
+function addNumbers(A, B, C0) {
     return a + b + c;
 }
 >>
